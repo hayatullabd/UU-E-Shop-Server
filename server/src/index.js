@@ -36,7 +36,7 @@ const ExpenseCalculateSubItemRoute = require("./Expenses/ExpenseCalculateSubItem
 const customRoutes = require("../src/boiler/collectionName/customRoutes")
 
 const allowedOrigins = [
-  "http://localhost:3000","http://localhost:3000",
+  "http://localhost:3000","https://e-shop-project-gdkd.vercel.app",
   // Add more origins if needed
 ];
 
